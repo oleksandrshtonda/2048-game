@@ -1,4 +1,4 @@
-# The 2048 game in beautiful JavaScript
+# The Number-Block game in beautiful JavaScript
   - [DEMO LINK](https://oleksandrshtonda.github.io/2048-game/)
 
 ## What technologies were used for creating this game?
